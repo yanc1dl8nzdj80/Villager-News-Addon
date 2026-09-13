@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yanc1dl8nzdj80.github.io/Villager-News-Addon/sitemap.xml
